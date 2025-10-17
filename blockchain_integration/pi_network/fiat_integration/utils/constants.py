@@ -50,4 +50,4 @@ iate.
 It is unclear whether the conversion to fiat currency will be monthly or annual.
 
 
-Other requirements will be added if deemed appropr.
+Other requirements will be added to deemed appropr.
