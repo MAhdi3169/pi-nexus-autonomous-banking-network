@@ -40,9 +40,14 @@ CRYPTO_CURRENCIES = [
     'XLM',  # Stellar
     'EOS',  # EOS
     'BNB',  # Binance Coin
-    'USDT',  # Tether
+    'USDT', # Tether
 ]
 
 # Other constants
-MIN_FIAT_TRANSACTION_AMOUNT = 10.0  # Minimum fiat transaction amount
-MAX_FIAT_TRANSACTION_AMOUNT = 250000.0  # Maximum fiat transaction amount
+MIN_FIAT_TRANSACTION_AMOUNT = 10.0 # Minimum fiat transaction amount
+MAX_FIAT_TRANSACTION_AMOUNT = 250000.0 # Maximum fiat transaction amount
+iate.
+It is unclear whether the conversion to fiat currency will be monthly or annual.
+
+
+Other requirements will be added if deemed appropr.
